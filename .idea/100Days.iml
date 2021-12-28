@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/day-18-hirst-painting/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/day-18-hirst-painting/venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (100DaysOfPython)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
