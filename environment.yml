@@ -1,4 +1,4 @@
-name: 100DaysOfPython
+name: 100-days
 channels: 
     - conda-forge
 dependencies: 
