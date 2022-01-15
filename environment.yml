@@ -10,4 +10,5 @@ dependencies:
     - requests=2.24.0
     - scipy=1.5.2
     - seaborn=0.11.2
+    - autopep8=1.6.0
 
