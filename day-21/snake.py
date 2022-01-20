@@ -1,3 +1,5 @@
+# Day 21 Snake game - 100 Days of Python
+
 from turtle import Turtle
 
 STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
